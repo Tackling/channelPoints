@@ -1,0 +1,16 @@
+{
+  "displayName": "ttvmuncher",
+  "uid": "259616157",
+  "channelRewards": [
+    {
+      "title": "Gifted sub",
+      "rewardId": "d60b204b-44c3-41c5-bf54-d96aa97767b7",
+      "prompt": "Gifted sub",
+      "cost": 100000,
+      "isEnabled": true,
+      "isInStock": true,
+      "isPaused": false,
+      "isSubOnly": false
+    }
+  ]
+},
